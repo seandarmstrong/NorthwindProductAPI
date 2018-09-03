@@ -203,6 +203,7 @@
     <Compile Include="DAL\Product.cs" />
     <Compile Include="DAL\Region.cs" />
     <Compile Include="DAL\Shipper.cs" />
+    <Compile Include="DAL\ProductViewModel.cs" />
     <Compile Include="DAL\Supplier.cs" />
     <Compile Include="DAL\Territory.cs" />
     <Compile Include="Global.asax.cs">
